@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 🦯
 
 <!--
 **Rizwan-Raza/Rizwan-Raza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hey y'all, I'm Rizwan, Rizwan Raza.
+
+Sometimes, somewhere, some people call me Rex or know me as Rex. So it's just a codename or pronoun for me.
