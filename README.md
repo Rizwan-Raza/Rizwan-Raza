@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 
 ## I'm Rizwan, Rizwan Raza.
 
-Sometimes, somewhere, some people call me Rex or know me as Rex. So it's just a codename or pronoun for me.
+Rex Terminous. Sometimes, somewhere, some people call me Rex or know me as Rex. So it's just a codename or pronoun for me.
+
+What I am?
+⚡ I'm a night nerd who just want to do shitty cool things alone.
